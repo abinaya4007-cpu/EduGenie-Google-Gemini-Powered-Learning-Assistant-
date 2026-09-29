@@ -1,0 +1,6 @@
+{
+  "name": "EduGenie - Google Gemini Powered Learning Assistant",
+  "description": "Intelligent learning companion powered by Google Gemini featuring Socratic tutoring, step-by-step problem solving, interactive quizzes, spaced repetition flashcards, concept diagrams, and audio voice explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
